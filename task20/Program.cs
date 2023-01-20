@@ -52,6 +52,6 @@ Console.WriteLine($"расстояние между двемя точками р
 
 // double Distance(int a1, int b1, int a2, int b2)
 // {
-//   return = Math.Sqrt(Math.Pow((a2 - a1), 2) + Math.Pow((b2 - b1), 2));
+//   return Math.Sqrt(Math.Pow((a2 - a1), 2) + Math.Pow((b2 - b1), 2));
 //   
 // }
